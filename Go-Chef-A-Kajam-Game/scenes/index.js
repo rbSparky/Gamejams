@@ -1,0 +1,9 @@
+import "/scenes/init.js";
+import "/scenes/intro.js";
+import "/scenes/shop.js";
+import "/scenes/menu.js";
+import "/scenes/room.js";
+import "/scenes/road.js";
+import "/scenes/judge.js";
+import "/scenes/bookshop.js";
+import "/scenes/winner.js";
