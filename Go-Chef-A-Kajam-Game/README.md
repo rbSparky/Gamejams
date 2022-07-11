@@ -1,15 +1,8 @@
-# Welcome to Kaboom!
+# Kajam 2022 submission
 
-Kaboom is a JavaScript game programming library that makes game dev fast and fun.
+Category winner 
 
-Check out the [examples](https://kaboomjs.com/play) and [docs](https://kaboomjs.com/), or this [tutorial](https://kaboomjs.com/doc/intro). 
+https://kajam.replit.com/
+https://youtu.be/Pt6dph3BPJM?t=2357
 
-This is different from the [main kaboom template](https://replit.com/@replit/Kaboom#code/main.js):
 
-### Pros
-- simple straightforward HTML / CSS / JS
-- lightweight, less files
-
-### Cons
-- no autocomplete / typescript
-- no bundling / npm (can load packages with `<script>` or built-in ES6 modules)
